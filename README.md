@@ -1,5 +1,4 @@
 I'm **Osama Ammar Othman**.
-
 22 years old.  
 
 **Computer Engineering** Bachelor's at **An-Najah National University** 🎓. 
