@@ -1,6 +1,6 @@
 # I'm **Osama Ammar Othman**  
-I am 22 years old and currently pursuing a **Bachelor's degree in Computer Engineering** 💻 at **An-Najah National University**.  
-I reside in **Palestine** 📍.
+I am 22 years old and I have a **Bachelor's degree in Computer Engineering** 💻 from **An-Najah National University**.  
+I live in **Palestine** 📍.
 
 ---
 ### 🖥 Programming Languages  
